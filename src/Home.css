@@ -1,0 +1,24 @@
+.home-div {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-justify: center;
+    text-align: center;
+}
+
+.home-btn {
+    font-size: 1.5rem;
+    height: 4.5rem;
+    width: auto;
+    border: 2px solid #7fb400;
+    background-color: #518900;
+    color: #dcff5c;
+    border-radius: 5px;
+    box-shadow: 1px 3px 5px #ade125;
+    padding: 10px;
+}
+
+.home-btn:hover{
+    
+    background-color: #7fb400;
+}
